@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Beatriz Aquino
-- 👀 Atualmente me interesso por desenvolvimento de jogos
+- 👋 Oi, cara de boi!
+- 👀 Atualmente me interesso por designer de games
 - 🌱 Atualmente estudando C#
 
 <div align="center">
