@@ -1,5 +1,5 @@
 - 👋 Oi, cara de boi!
-- 👀 Atualmente me interesso por designer de games
+- 👀 Atualmente me interesso por desenvolvimento de games
 - 🌱 Atualmente estudando C#
 
 <div align="center">
