@@ -12,7 +12,7 @@
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/82/cc/b6/82ccb6c0fe2a9f93ed1214ca82d5448a.jpg">
+  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/36/e1/d7/36e1d73c01bd39e7abeef57911e53348.jpg">
 </div>
 
 <div>
