@@ -1,6 +1,6 @@
 - 👋 Oi, cara de boi!
 - 👀 Atualmente me interesso por desenvolvimento de games
-- 🌱 Atualmente estudando C#
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/beatrizaquino">
