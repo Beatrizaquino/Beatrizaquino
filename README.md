@@ -10,9 +10,7 @@
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Beatrizaquino&theme=cobalt&hide_border=true&area=true)
   
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beatrizaquino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
