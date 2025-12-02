@@ -66,5 +66,5 @@
 
 ### 🐍 Snake Animation
 
-> ⚠️ A cobra só aparece depois que você instalar o workflow.
+![Snake animation](https://raw.githubusercontent.com/beatrizaquino/beatrizaquino/output/github-contribution-grid-snake-dark.svg)
 
