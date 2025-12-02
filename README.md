@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=beatrizaquino&show_icons=true&theme=dracula&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaquino&layout=compact&theme=dracula&langs_count=8" />
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
@@ -77,7 +68,6 @@
 ---
 
 ## 🐍 Snake Animation  
-*(Ativa após rodar o workflow)*
 
 ![Snake animation](https://raw.githubusercontent.com/beatrizaquino/beatrizaquino/output/github-contribution-grid-snake-dark.svg)
 
